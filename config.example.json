@@ -1,0 +1,14 @@
+{
+  "client_id": "PASTE_CLIENT_ID_HERE",
+  "client_secret": "PASTE_CLIENT_SECRET_HERE",
+  "profile": "PASTE_PROFILE_NAME_HERE",
+  "headset_id": "",
+
+  "left_click_command": "push",
+  "right_click_command": "pull",
+  "threshold": 0.5,
+  "hold_samples": 3,
+  "cooldown_seconds": 1.0,
+
+  "camera": 0
+}
